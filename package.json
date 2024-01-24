@@ -4,7 +4,6 @@
   "description": "JavaScript SDK for Optimizely Feature Experimentation, Optimizely Full Stack (legacy), and Optimizely Rollouts",
   "module": "dist/optimizely.browser.es.js",
   "main": "dist/optimizely.node.min.js",
-  "browser": "dist/optimizely.browser.min.js",
   "react-native": "dist/optimizely.react_native.min.js",
   "typings": "dist/index.browser.d.ts",
   "exports": {
