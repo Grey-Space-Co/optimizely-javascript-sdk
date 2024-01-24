@@ -19,10 +19,8 @@
         "default": "./dist/optimizely.react_native.min.js"
       },
       "default": {
-        "types": "./dist/index.browser.d.ts",
-        "require": "./dist/optimizely.browser.min.js",
-        "import": "./dist/optimizely.browser.es.js",
-        "default": "./dist/optimizely.browser.es.min.js"
+        "types": "./dist/index.node.d.ts",
+        "default": "./dist/optimizely.node.min.js"
       }
     },
     "./lite": {
